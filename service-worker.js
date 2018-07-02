@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.3.0/workbox-sw.js");
 
 importScripts(
-  "/genewsrator/precache-manifest.d1ea2ef83f172c7681666595d8c06aed.js"
+  "/genewsrator/precache-manifest.5e0538e71a1b0f70365241ae29faca73.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "app"});
